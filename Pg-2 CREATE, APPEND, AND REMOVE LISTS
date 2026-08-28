@@ -1,7 +1,7 @@
 # CODING 1 (CREATING A LIST)
 numbers = [2, 4, 6, 8, 10]
 colors = ["Red", "blue", "pink", "yellow", "black"]
-combined_list = [109, 80.9, "Ashifa", True]
+combined_list = [129, 80, "Kavi", True]
 empty_list = []
 print(numbers, colors, combined_list, empty_list)
 
@@ -36,7 +36,7 @@ print(colors)
 
 # CODING 7 (COMMON LIST OPERATION - 04)
 colors = ["Red", "blue", "pink", "yellow", "black"]
-combined_list = [109, 80.9, "Ashifa", True]
+combined_list = [129, 80, "Kavi", True]
 print(len(colors))
 print(len(combined_list))
 
