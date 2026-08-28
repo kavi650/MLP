@@ -43,7 +43,7 @@ for i in range(len(sports)):
     print(sports[i])
 
 # CODING 8 (TUPLE UNPACKING)
-data = (109, "Ashifa", 18)
+data = (129, "Kavi", 19)
 rollno, name, age = data
 print(rollno, name, age)
 
